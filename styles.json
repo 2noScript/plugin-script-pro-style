@@ -10,10 +10,6 @@
       "enhancement": "expressive stickman face, clear stickman figure, realistic stickman posing",
       "suffix": "expressive stickman face, simple circle head, clean white paper background"
     },
-    "object": {
-      "enhancement": "simple sketchy object details, crayon colored textures, pencil sketch prop style, clean white background",
-      "suffix": "clean white paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "clean white paper background, simple pencil sketchy outlines, hand-drawn environment details, clean minimal sketchy backdrop",
       "suffix": "simple stickman figures in scene, sketchy backdrop, educational storyboard aesthetic",
@@ -27,6 +23,10 @@
         "characters",
         "featuring stickman"
       ]
+    },
+    "prop": {
+      "enhancement": "simple sketchy object details, crayon colored textures, pencil sketch prop style, clean white background",
+      "suffix": "clean white paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -40,13 +40,13 @@
       "enhancement": "expressive face watercolor details, elegant artistic watercolor character portrait",
       "suffix": "expressive artistic watercolor character portrait style"
     },
-    "object": {
-      "enhancement": "soft watercolor wash textures, elegant watercolor paint details on object, artistic color bleeds",
-      "suffix": "product design style, isolated watercolor object, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "beautiful watercolor wash background, elegant color blending, soft textured paper, artistic wet-on-wet paint texture scenery",
       "suffix": "scenic painted environment backdrop, detailed painted scenery"
+    },
+    "prop": {
+      "enhancement": "soft watercolor wash textures, elegant watercolor paint details on object, artistic color bleeds",
+      "suffix": "product design style, isolated watercolor object, strictly no human figures, no hands"
     }
   },
   {
@@ -60,13 +60,13 @@
       "enhancement": "16-bit retro character sprite, detailed pixel art figure, expressive retro face",
       "suffix": "arcade video game character sprite design"
     },
-    "object": {
-      "enhancement": "16-bit retro pixel art prop sprite, detailed pixel asset, vibrant limited color palette",
-      "suffix": "arcade video game prop item asset design, strictly no characters, no human figures, no hands"
-    },
     "shot": {
       "enhancement": "detailed 16-bit retro pixel art background, retro gaming environment, clean grid-aligned pixel scenery",
       "suffix": "detailed pixelated background scene, arcade video game screen aesthetic"
+    },
+    "prop": {
+      "enhancement": "16-bit retro pixel art prop sprite, detailed pixel asset, vibrant limited color palette",
+      "suffix": "arcade video game prop item asset design, strictly no characters, no human figures, no hands"
     }
   },
   {
@@ -80,13 +80,13 @@
       "enhancement": "detailed character features, neon glow highlights on clothes, expressive face lights",
       "suffix": "detailed high-tech clothing and cybernetic accents"
     },
-    "object": {
-      "enhancement": "neon glow accents on object, high-tech cybernetic details, futuristic prop materials, dark synthwave tech style",
-      "suffix": "detailed high-tech materials and glowing circuit accents, strictly no people, no characters, no hands"
-    },
     "shot": {
       "enhancement": "glowing neon city street backdrop, atmospheric cyber haze, futuristic environment reflections, rain-slicked streets, dark synthwave tones",
       "suffix": "detailed high-tech environment backdrop, futuristic sci-fi aesthetic"
+    },
+    "prop": {
+      "enhancement": "neon glow accents on object, high-tech cybernetic details, futuristic prop materials, dark synthwave tech style",
+      "suffix": "detailed high-tech materials and glowing circuit accents, strictly no people, no characters, no hands"
     }
   },
   {
@@ -100,13 +100,13 @@
       "enhancement": "highly detailed photorealistic character, detailed skin textures, realistic eyes, cinematic character portrait",
       "suffix": "detailed clothing fabric and skin textures, realistic eyes, cinematic character portrait"
     },
-    "object": {
-      "enhancement": "highly detailed 3D object render, photorealistic textures and materials, realistic studio lighting, octane render prop asset",
-      "suffix": "detailed surface textures and physical materials, dramatic cinematic studio product lighting, strictly no human figures, no people, no hands"
-    },
     "shot": {
       "enhancement": "cinematic 3D environment scenery, volumetric atmospheric lighting, photorealistic textures, octane render style background, dramatic depth of field",
       "suffix": "detailed environment scenery and textures, dramatic cinematic depth-of-field, volumetric atmospheric studio lighting"
+    },
+    "prop": {
+      "enhancement": "highly detailed 3D object render, photorealistic textures and materials, realistic studio lighting, octane render prop asset",
+      "suffix": "detailed surface textures and physical materials, dramatic cinematic studio product lighting, strictly no human figures, no people, no hands"
     }
   },
   {
@@ -120,13 +120,13 @@
       "enhancement": "pencil sketch character features, fine pencil line details, shaded clothes textures",
       "suffix": "pencil turnaround sheet, clean white paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "graphite pencil prop sketch, fine pencil line work, realistic pencil shading textures",
-      "suffix": "clean white paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "pencil sketchy background details, detailed pencil line scenery, graphite paper texture background",
       "suffix": "sketchy landscape, detailed pencil sketch environment"
+    },
+    "prop": {
+      "enhancement": "graphite pencil prop sketch, fine pencil line work, realistic pencil shading textures",
+      "suffix": "clean white paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -140,13 +140,13 @@
       "enhancement": "expressive oil painted portrait features, realistic oil paint textures, classic clothing fabrics",
       "suffix": "character turnaround model sheet, clean dark studio backdrop, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "fine art oil painted prop detail, realistic metal and wood brush strokes",
-      "suffix": "clean dark studio backdrop, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "scenic oil painted environment backdrop, rich canvas texture scenery, dramatic sunset shadows",
       "suffix": "scenic oil painting backdrop, classic landscape scenery"
+    },
+    "prop": {
+      "enhancement": "fine art oil painted prop detail, realistic metal and wood brush strokes",
+      "suffix": "clean dark studio backdrop, strictly no human figures, no hands"
     }
   },
   {
@@ -160,13 +160,13 @@
       "enhancement": "plasticine clay character figure, soft clay details, simple round plasticine eyes",
       "suffix": "character turnaround sheet, clean solid background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "molded clay prop, plasticine details, soft clay materials",
-      "suffix": "clean solid background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "molded clay environment backdrop, plasticine scenery, stop-motion camera depth of field",
       "suffix": "claymation environment scenery, stop-motion backdrop"
+    },
+    "prop": {
+      "enhancement": "molded clay prop, plasticine details, soft clay materials",
+      "suffix": "clean solid background, strictly no human figures, no hands"
     }
   },
   {
@@ -180,13 +180,13 @@
       "enhancement": "folded paper character model, clean origami creases, layered paper clothes",
       "suffix": "character turnaround sheet, clean solid paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "origami folded paper prop, papercraft details, clean paper folds",
-      "suffix": "clean solid paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "layered papercraft environment backdrop, origami scenery, distinct paper cut shadows",
       "suffix": "origami environment scenery, papercraft landscape"
+    },
+    "prop": {
+      "enhancement": "origami folded paper prop, papercraft details, clean paper folds",
+      "suffix": "clean solid paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -200,13 +200,13 @@
       "enhancement": "schematic character design, glowing wireframe lines, technical details",
       "suffix": "character turnaround sheet, dark grid background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "blueprint prop schematic, glowing wireframe details, cyan technical lines",
-      "suffix": "dark grid background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "blueprint environment layout, glowing wireframe scenery, technical grid lines",
       "suffix": "blueprint environment scenery, schematic backdrop"
+    },
+    "prop": {
+      "enhancement": "blueprint prop schematic, glowing wireframe details, cyan technical lines",
+      "suffix": "dark grid background, strictly no human figures, no hands"
     }
   },
   {
@@ -220,13 +220,13 @@
       "enhancement": "retro comic book character design, halftone dot clothes textures, thick black outlines",
       "suffix": "character turnaround model sheet, clean solid background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "retro comic prop asset, halftone dot shading, thick ink lines",
-      "suffix": "clean solid background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "comic book background scene, halftone dot scenery, retro cartoon backdrop",
       "suffix": "comic book environment scenery, pop art backdrop"
+    },
+    "prop": {
+      "enhancement": "retro comic prop asset, halftone dot shading, thick ink lines",
+      "suffix": "clean solid background, strictly no human figures, no hands"
     }
   },
   {
@@ -240,13 +240,13 @@
       "enhancement": "blocky voxel character model, voxel grid details, cubic pixel clothes",
       "suffix": "character turnaround sheet, clean blocky background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "voxel art prop asset, blocky cubic details, voxel structures",
-      "suffix": "clean blocky background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "isometric voxel environment backdrop, blocky cubic landscape, retro voxel game scenery",
       "suffix": "isometric voxel environment, blocky landscape backdrop"
+    },
+    "prop": {
+      "enhancement": "voxel art prop asset, blocky cubic details, voxel structures",
+      "suffix": "clean blocky background, strictly no human figures, no hands"
     }
   },
   {
@@ -260,13 +260,13 @@
       "enhancement": "charming storybook character illustration, delicate ink outlines, soft watercolor washes",
       "suffix": "character turnaround sheet, clean paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "classic storybook prop illustration, fine ink details, soft watercolor wash",
-      "suffix": "clean paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "storybook environment backdrop, delicate ink scenery, soft watercolor wash landscape",
       "suffix": "storybook landscape, classic illustration backdrop"
+    },
+    "prop": {
+      "enhancement": "classic storybook prop illustration, fine ink details, soft watercolor wash",
+      "suffix": "clean paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -280,13 +280,13 @@
       "enhancement": "childish crayon character doodle, thick colorful strokes, simple sketchy details",
       "suffix": "turnaround drawing sheet, clean paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "crayon prop drawing, thick crayon strokes, childlike doodles",
-      "suffix": "clean paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "crayon environment scenery, colorful doodle backdrop, sketchy landscape",
       "suffix": "crayon drawing environment, childlike doodle backdrop"
+    },
+    "prop": {
+      "enhancement": "crayon prop drawing, thick crayon strokes, childlike doodles",
+      "suffix": "clean paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -300,13 +300,13 @@
       "enhancement": "synthwave character model, glowing neon outlines, 80s sunglasses and clothes",
       "suffix": "character turnaround sheet, dark grid background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "retrowave prop model, glowing neon wireframe details, cybernetic synthwave accents",
-      "suffix": "dark grid background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "retrowave grid landscape, glowing cyber sun scenery, wireframe mountains backdrop",
       "suffix": "retrowave landscape environment, neon sun backdrop"
+    },
+    "prop": {
+      "enhancement": "retrowave prop model, glowing neon wireframe details, cybernetic synthwave accents",
+      "suffix": "dark grid background, strictly no human figures, no hands"
     }
   },
   {
@@ -320,13 +320,13 @@
       "enhancement": "expressive anime character portrait, clean anime eyes, detailed anime hair and outfit",
       "suffix": "anime character design sheet, clean studio background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "detailed anime prop asset, clean anime line art, soft cel shaded highlights",
-      "suffix": "clean background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "scenic anime landscape environment, painterly sky with fluffy clouds, cinematic anime background scenery",
       "suffix": "detailed anime background scene, anime aesthetic scenery"
+    },
+    "prop": {
+      "enhancement": "detailed anime prop asset, clean anime line art, soft cel shaded highlights",
+      "suffix": "clean background, strictly no human figures, no hands"
     }
   },
   {
@@ -340,13 +340,13 @@
       "enhancement": "steampunk character outfit, brass goggles, leather harness, expressive victorian face",
       "suffix": "steampunk character turnaround, workshop backdrop, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "intricate steampunk machine prop, polished brass clockwork gears, copper steam valves",
-      "suffix": "workshop background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "smoky victorian steampunk city street, brass architecture, steam powered machinery, dramatic sunset lighting",
       "suffix": "steampunk city environment, industrial victorian backdrop"
+    },
+    "prop": {
+      "enhancement": "intricate steampunk machine prop, polished brass clockwork gears, copper steam valves",
+      "suffix": "workshop background, strictly no human figures, no hands"
     }
   },
   {
@@ -360,13 +360,13 @@
       "enhancement": "stained glass character mosaic, glowing glass face, intricate lead metal lines",
       "suffix": "stained glass character art, leaded glass background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "stained glass prop mosaic, luminous glass panels, dark metal wire outlines",
-      "suffix": "leaded glass background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "gothic cathedral stained glass window scene, radiant sun rays passing through colored glass, architectural glass mosaic",
       "suffix": "cathedral stained glass scenery, luminous glass backdrop"
+    },
+    "prop": {
+      "enhancement": "stained glass prop mosaic, luminous glass panels, dark metal wire outlines",
+      "suffix": "leaded glass background, strictly no human figures, no hands"
     }
   },
   {
@@ -380,13 +380,13 @@
       "enhancement": "layered paper cutout character silhouette, clean paper craft edges, distinct shadow layers",
       "suffix": "paper cutout character model, solid paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "paper cutout prop asset, multi-layer paper depth, clean papercraft folds",
-      "suffix": "solid paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "layered paper cutout landscape backdrop, multi-plane paper scenery, soft shadow depth",
       "suffix": "paper cutout environment, 3D papercraft scenery"
+    },
+    "prop": {
+      "enhancement": "paper cutout prop asset, multi-layer paper depth, clean papercraft folds",
+      "suffix": "solid paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -400,13 +400,13 @@
       "enhancement": "holographic character projection, glowing cyan matrix wireframe, transparent digital silhouette",
       "suffix": "hologram character display, dark grid backdrop, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "holographic prop projection, digital wireframe schematic, cyan scanline glow",
-      "suffix": "dark grid backdrop, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "futuristic hologram environment, matrix glitch digital grid, atmospheric holographic projection scenery",
       "suffix": "holographic sci-fi environment, digital matrix backdrop"
+    },
+    "prop": {
+      "enhancement": "holographic prop projection, digital wireframe schematic, cyan scanline glow",
+      "suffix": "dark grid backdrop, strictly no human figures, no hands"
     }
   },
   {
@@ -420,13 +420,13 @@
       "enhancement": "chalk drawn character sketch, powdery chalk shading, expressive chalk facial features",
       "suffix": "chalkboard character drawing, clean slate background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "chalk prop drawing, detailed chalk hatching, powdery slate texture",
-      "suffix": "clean slate background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "chalkboard landscape drawing, dusty chalk scenery, detailed chalk line background",
       "suffix": "chalkboard environment, educational chalk backdrop"
+    },
+    "prop": {
+      "enhancement": "chalk prop drawing, detailed chalk hatching, powdery slate texture",
+      "suffix": "clean slate background, strictly no human figures, no hands"
     }
   },
   {
@@ -440,13 +440,13 @@
       "enhancement": "cute chibi character figure, big expressive eyes, round soft features, adorable outfit",
       "suffix": "chibi character turnaround, clean pastel background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "cute chibi prop asset, rounded soft edges, glossy vinyl toy material",
-      "suffix": "clean pastel background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "cute pastel chibi landscape environment, miniature toy scenery, soft tilt-shift depth of field",
       "suffix": "chibi toy environment scenery, cute pastel backdrop"
+    },
+    "prop": {
+      "enhancement": "cute chibi prop asset, rounded soft edges, glossy vinyl toy material",
+      "suffix": "clean pastel background, strictly no human figures, no hands"
     }
   },
   {
@@ -460,13 +460,13 @@
       "enhancement": "film noir character portrait, dramatic shadow across face, classic 1940s trench coat and fedora",
       "suffix": "noir character portrait, dark shadow backdrop, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "film noir prop asset, dramatic shadow lines, metallic monochrome reflections",
-      "suffix": "dark shadow backdrop, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "rain-slicked film noir alleyway, glowing street lamp in fog, dramatic shadow scenery, black and white cinema backdrop",
       "suffix": "film noir city street scenery, moody noir backdrop"
+    },
+    "prop": {
+      "enhancement": "film noir prop asset, dramatic shadow lines, metallic monochrome reflections",
+      "suffix": "dark shadow backdrop, strictly no human figures, no hands"
     }
   },
   {
@@ -480,13 +480,13 @@
       "enhancement": "sumi-e ink character portrait, expressive brush line work, traditional japanese outfit",
       "suffix": "sumi-e character painting, rice paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "sumi-e ink prop illustration, fluid ink wash, traditional japanese brush work",
-      "suffix": "rice paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "zen sumi-e landscape environment, misty mountains, ink wash cherry blossom scenery",
       "suffix": "sumi-e landscape painting, traditional japanese backdrop"
+    },
+    "prop": {
+      "enhancement": "sumi-e ink prop illustration, fluid ink wash, traditional japanese brush work",
+      "suffix": "rice paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -500,13 +500,13 @@
       "enhancement": "low-poly character model, faceted polygon mesh face and clothes, clean geometric silhouette",
       "suffix": "low-poly character turnaround, clean geometric background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "low-poly prop asset, geometric polygon mesh, sharp low-poly edges",
-      "suffix": "clean geometric background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "low-poly fantasy landscape backdrop, geometric polygon mountains and trees, atmospheric low-poly scenery",
       "suffix": "low-poly environment scenery, polygonal landscape backdrop"
+    },
+    "prop": {
+      "enhancement": "low-poly prop asset, geometric polygon mesh, sharp low-poly edges",
+      "suffix": "clean geometric background, strictly no human figures, no hands"
     }
   },
   {
@@ -520,13 +520,13 @@
       "enhancement": "gothic dark fantasy character, ornate dark armor and robes, glowing eyes, intense dramatic shadow",
       "suffix": "gothic character portrait, dark cathedral background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "dark fantasy prop artifact, glowing mystical runes, dark metal and ancient stone material",
-      "suffix": "dark altar background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "gothic dark fantasy environment, ancient stone cathedral ruins, eerie misty landscape, dramatic moonlit sky",
       "suffix": "gothic fantasy landscape, dark ruins backdrop"
+    },
+    "prop": {
+      "enhancement": "dark fantasy prop artifact, glowing mystical runes, dark metal and ancient stone material",
+      "suffix": "dark altar background, strictly no human figures, no hands"
     }
   },
   {
@@ -540,13 +540,13 @@
       "enhancement": "cute felt plush character doll, visible thread stitching, soft wool fabric texture, button eyes",
       "suffix": "plush doll turnaround, craft paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "felt craft prop asset, stitched fabric edges, needle felted texture",
-      "suffix": "craft paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "miniature felt craft landscape, felted trees and cloth terrain, stop-motion set aesthetic",
       "suffix": "felt craft environment, stop-motion puppet backdrop"
+    },
+    "prop": {
+      "enhancement": "felt craft prop asset, stitched fabric edges, needle felted texture",
+      "suffix": "craft paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -560,13 +560,13 @@
       "enhancement": "glitch art character portrait, RGB chromatic split lines, digital pixel sorting distortion",
       "suffix": "glitch character display, dark cyber background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "glitched prop schematic, digital glitch distortion, chromatic aberration accents",
-      "suffix": "dark cyber background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "digital glitch cityscape, pixel sorted environment, cybernetic chromatic distortion backdrop",
       "suffix": "glitch environment scenery, cybernetic glitch backdrop"
+    },
+    "prop": {
+      "enhancement": "glitched prop schematic, digital glitch distortion, chromatic aberration accents",
+      "suffix": "dark cyber background, strictly no human figures, no hands"
     }
   },
   {
@@ -580,13 +580,13 @@
       "enhancement": "engraved stamp character portrait, fine linocut hatching, retro postal illustration",
       "suffix": "engraved character illustration, aged paper background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "vintage stamp prop illustration, fine linocut print details, aged paper texture",
-      "suffix": "aged paper background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "vintage postal stamp landscape backdrop, engraved scenery, fine linocut line landscape",
       "suffix": "engraved postal landscape, retro stamp backdrop"
+    },
+    "prop": {
+      "enhancement": "vintage stamp prop illustration, fine linocut print details, aged paper texture",
+      "suffix": "aged paper background, strictly no human figures, no hands"
     }
   },
   {
@@ -600,13 +600,13 @@
       "enhancement": "psychedelic character illustration, swirling neon color aura, kaleidoscopic hair and outfit",
       "suffix": "psychedelic character art, swirling color background, strictly no text, no annotations"
     },
-    "object": {
-      "enhancement": "psychedelic prop asset, swirling neon liquid colors, trippy mandala patterns",
-      "suffix": "swirling color background, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "surreal psychedelic landscape environment, swirling rainbow clouds, kaleidoscopic dreamscape scenery",
       "suffix": "psychedelic environment, trippy surreal backdrop"
+    },
+    "prop": {
+      "enhancement": "psychedelic prop asset, swirling neon liquid colors, trippy mandala patterns",
+      "suffix": "swirling color background, strictly no human figures, no hands"
     }
   },
   {
@@ -620,13 +620,13 @@
       "enhancement": "dramatic chiaroscuro lighting on face, classic baroque portrait, oil paint brushstroke texture",
       "suffix": "dramatic chiaroscuro portrait, dark dramatic studio background"
     },
-    "object": {
-      "enhancement": "rich gold leaf textures, dramatic directional lighting, classical baroque prop study",
-      "suffix": "isolated baroque object study, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "dramatic dark cathedral archways, warm glowing golden hour light, majestic baroque atmosphere",
       "suffix": "dramatic oil painted environment scene, museum gallery masterpiece quality"
+    },
+    "prop": {
+      "enhancement": "rich gold leaf textures, dramatic directional lighting, classical baroque prop study",
+      "suffix": "isolated baroque object study, strictly no human figures, no hands"
     }
   },
   {
@@ -640,13 +640,13 @@
       "enhancement": "neon outline glow on figure, retro 80s chrome sunglasses, synthwave hero aesthetic",
       "suffix": "retro futuristic synthwave character portrait"
     },
-    "object": {
-      "enhancement": "glowing neon edges, chrome reflective surface, retro synthwave prop render",
-      "suffix": "isolated synthwave prop asset, strictly no characters, no human figures, no hands"
-    },
     "shot": {
       "enhancement": "glowing wireframe neon landscape grid, giant magenta sunset grid horizon, retrowave sky backdrop",
       "suffix": "retro 80s synthwave horizon backdrop, outrun aesthetic"
+    },
+    "prop": {
+      "enhancement": "glowing neon edges, chrome reflective surface, retro synthwave prop render",
+      "suffix": "isolated synthwave prop asset, strictly no characters, no human figures, no hands"
     }
   },
   {
@@ -660,13 +660,13 @@
       "enhancement": "coiled paper strip character outline, paper filigree hair and clothes, paper quilling figure",
       "suffix": "handmade paper quilling character portrait"
     },
-    "object": {
-      "enhancement": "intricate coiled paper object details, rolled paper filigree texture, quilled paper prop art",
-      "suffix": "isolated paper quilling object artwork, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "layered paper quilled background scenery, coiled paper trees and architecture, 3D papercraft depth",
       "suffix": "intricate paper quilling environment scene"
+    },
+    "prop": {
+      "enhancement": "intricate coiled paper object details, rolled paper filigree texture, quilled paper prop art",
+      "suffix": "isolated paper quilling object artwork, strictly no human figures, no hands"
     }
   },
   {
@@ -680,13 +680,13 @@
       "enhancement": "cybernetic eye visor glow, detailed futuristic armor plates, expressive cyber samurai portrait",
       "suffix": "cyberpunk anime hero character portrait"
     },
-    "object": {
-      "enhancement": "glowing energy circuit lines, high-tech cybernetic prop materials, futuristic anime item design",
-      "suffix": "isolated cybernetic anime prop asset, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "neon-soaked rain-slicked cyberpunk alleyway, holographic billboards, futuristic metropolis backdrop",
       "suffix": "cinematic cyberpunk anime scene"
+    },
+    "prop": {
+      "enhancement": "glowing energy circuit lines, high-tech cybernetic prop materials, futuristic anime item design",
+      "suffix": "isolated cybernetic anime prop asset, strictly no human figures, no hands"
     }
   },
   {
@@ -700,13 +700,13 @@
       "enhancement": "brass clockwork goggles, leather brass vest details, Victorian inventor character",
       "suffix": "steampunk inventor character portrait"
     },
-    "object": {
-      "enhancement": "intricate gear mechanism, polished brass cogs, mechanical steam gauge details",
-      "suffix": "isolated clockwork mechanical prop study, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "Victorian clock tower interior, giant rotating brass gear backdrop, warm atmospheric steam lighting",
       "suffix": "detailed clockwork machinery environment"
+    },
+    "prop": {
+      "enhancement": "intricate gear mechanism, polished brass cogs, mechanical steam gauge details",
+      "suffix": "isolated clockwork mechanical prop study, strictly no human figures, no hands"
     }
   },
   {
@@ -720,13 +720,13 @@
       "enhancement": "gained glass heroic figure, glowing translucent glass face details, cathedral mosaic style",
       "suffix": "stained glass cathedral mosaic character portrait"
     },
-    "object": {
-      "enhancement": "jewel-toned stained glass prop design, translucent glass paneling, leaded metal framing",
-      "suffix": "isolated stained glass motif, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "grand gothic cathedral window frame, colorful ray of light beams, glowing stained glass scenery",
       "suffix": "luminous gothic stained glass window backdrop"
+    },
+    "prop": {
+      "enhancement": "jewel-toned stained glass prop design, translucent glass paneling, leaded metal framing",
+      "suffix": "isolated stained glass motif, strictly no human figures, no hands"
     }
   },
   {
@@ -740,13 +740,13 @@
       "enhancement": "heroic retro comic expression, strong jawline lineart, halftone shaded character portrait",
       "suffix": "vintage golden age comic hero portrait"
     },
-    "object": {
-      "enhancement": "bold comic book ink shading, retro pulp prop design, halftone dot texture",
-      "suffix": "isolated pulp comic prop illustration, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "classic comic book action backdrop, dynamic halftone sky, retro adventure scenery",
       "suffix": "golden age comic book panel scene"
+    },
+    "prop": {
+      "enhancement": "bold comic book ink shading, retro pulp prop design, halftone dot texture",
+      "suffix": "isolated pulp comic prop illustration, strictly no human figures, no hands"
     }
   },
   {
@@ -760,13 +760,13 @@
       "enhancement": "dreamlike surreal character figure, ethereal floating elements, surrealist portrait",
       "suffix": "surrealist dreamlike character portrait"
     },
-    "object": {
-      "enhancement": "surreal distortion, melting metallic textures, floating dream object",
-      "suffix": "isolated surrealist object art, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "surreal desert horizon, floating giant geometric shapes, dreamlike sunset sky",
       "suffix": "ethereal surrealist landscape backdrop"
+    },
+    "prop": {
+      "enhancement": "surreal distortion, melting metallic textures, floating dream object",
+      "suffix": "isolated surrealist object art, strictly no human figures, no hands"
     }
   },
   {
@@ -780,13 +780,13 @@
       "enhancement": "clean flat vector character silhouette, minimal face details, stylish geometric figure",
       "suffix": "minimalist flat vector character portrait"
     },
-    "object": {
-      "enhancement": "clean geometric vector prop shape, flat color shading, minimal product vector art",
-      "suffix": "isolated minimalist flat vector prop design, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "clean flat vector landscape, minimal geometric trees and mountains, soft flat sky gradient",
       "suffix": "modern minimalist vector environment scene"
+    },
+    "prop": {
+      "enhancement": "clean geometric vector prop shape, flat color shading, minimal product vector art",
+      "suffix": "isolated minimalist flat vector prop design, strictly no human figures, no hands"
     }
   },
   {
@@ -800,13 +800,13 @@
       "enhancement": "translucent frosted glass armor accents, glowing light refraction, sleek glassmorphism character",
       "suffix": "glassmorphism 3D character portrait"
     },
-    "object": {
-      "enhancement": "frosted glass prop material, translucent color refraction, sleek 3D glass product render",
-      "suffix": "isolated glassmorphic 3D prop render, strictly no human figures, no hands"
-    },
     "shot": {
       "enhancement": "floating frosted glass geometry background, vibrant ambient neon light refractions, soft gradient studio backdrop",
       "suffix": "modern glassmorphic 3D environment backdrop"
+    },
+    "prop": {
+      "enhancement": "frosted glass prop material, translucent color refraction, sleek 3D glass product render",
+      "suffix": "isolated glassmorphic 3D prop render, strictly no human figures, no hands"
     }
   }
 ]

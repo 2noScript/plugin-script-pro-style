@@ -1,6 +1,6 @@
 # 🎨 Script Pro Style Presets & Image Repository (`script-style-image`)
 
-[![Total Styles](https://img.shields.io/badge/Presets-40%20Styles-indigo?style=for-the-badge&logo=palette)](styles.json)
+[![Total Styles](https://img.shields.io/badge/Presets-41%20Styles-indigo?style=for-the-badge&logo=palette)](styles.json)
 [![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)](styles.json)
 
 Public repository hosting dynamic style preset configurations (`styles.json`) and preview benchmark images for the Script Pro web application.
@@ -16,7 +16,7 @@ To maintain visual consistency and comparability across all artistic style prese
 
 ---
 
-## 🖼️ Style Presets Catalogue (40 Presets)
+## 🖼️ Style Presets Catalogue (41 Presets)
 
 | # | Style Key | Style Name | Description | Image Preview |
 | :-: | :--- | :--- | :--- | :--- |
@@ -60,6 +60,7 @@ To maintain visual consistency and comparability across all artistic style prese
 | **38** | `surrealist-dreamscape` | **Surrealist Dreamscape** | Salvador Dali inspired surrealist dreamscape, melting organic forms, floating geometric shapes, and ethereal sky. | <img src="images/surrealist-dreamscape/cover.jpg" width="130" alt="Surrealist Dreamscape" /> |
 | **39** | `minimalist-vector-art` | **Minimalist Flat Vector** | Modern clean vector illustration, sharp geometric shapes, bold harmonious flat color blocks, and minimal aesthetic. | <img src="images/minimalist-vector-art/cover.jpg" width="130" alt="Minimalist Flat Vector" /> |
 | **40** | `glassmorphism-3d` | **Glassmorphism 3D** | Frosted glass refractions, translucent glowing 3D shapes, vibrant neon light caustics, and sleek UI aesthetic. | <img src="images/glassmorphism-3d/cover.jpg" width="130" alt="Glassmorphism 3D" /> |
+| **41** | `vox-paper-collage` | **VOX Paper Collage** | Hand-cut documentary paper collage on aged newsprint and archival map surfaces with halftone photo cutouts, torn edges, and tape. | <img src="images/vox-paper-collage/cover.jpg" width="130" alt="VOX Paper Collage" /> |
 
 ---
 

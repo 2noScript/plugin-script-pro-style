@@ -808,5 +808,33 @@
       "enhancement": "frosted glass prop material, translucent color refraction, sleek 3D glass product render",
       "suffix": "isolated glassmorphic 3D prop render, strictly no human figures, no hands"
     }
+  },
+  {
+    "order": 41,
+    "key": "vox-paper-collage",
+    "name": "VOX Paper Collage",
+    "description": "Hand-cut documentary paper collage on aged newsprint and archival map surfaces with halftone photo cutouts, torn edges, and tape.",
+    "previewImage": "images/vox-paper-collage/cover.jpg",
+    "basePrompt": "hand-cut documentary paper collage style, aged newsprint and archival map background, black and white halftone photograph cutouts with rough scissor-cut edges, torn paper edges, masking tape fragments, typewriter caption strips, rubber stamp marks, red string accents, desaturated archival palette, matte flat lighting, soft cutout drop shadows, visible paper grain",
+    "character": {
+      "enhancement": "halftone printed photograph cutout of character, visible white scissor-cut border, textured newsprint paper grain, physical paper cutout layered look",
+      "suffix": "vintage halftone photo print cutout, rough paper edges, clean solid paper background"
+    },
+    "shot": {
+      "enhancement": "layered mixed-media paper collage scenery, dynamic paper cutouts with soft drop shadows on aged parchment background, editorial documentary layout",
+      "suffix": "editorial documentary paper collage backdrop, tactile handcrafted look, rich paper texture",
+      "negativeFilter": [
+        "characters in scene",
+        "people in scene",
+        "human figures in scene",
+        "characters",
+        "people",
+        "human figures"
+      ]
+    },
+    "prop": {
+      "enhancement": "hand-cut physical paper cutout of object with sharp scissor-cut edges, aged archival paper material, realistic drop shadow underneath",
+      "suffix": "clean solid paper background, isolated paper cutout object, strictly no human figures, no hands"
+    }
   }
 ]

@@ -1,9 +1,22 @@
-# 🎨 Script Pro Style Presets & Image Repository (`script-style-image`)
+# 🎨 Script Pro Style Presets & Image Repository (`plugin-script-pro-style`)
 
-[![Total Styles](https://img.shields.io/badge/Presets-41%20Styles-indigo?style=for-the-badge&logo=palette)](styles.json)
-[![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)](styles.json)
+[![Total Styles](https://img.shields.io/badge/Presets-41%20Styles-indigo?style=for-the-badge&logo=palette)](manifest.json)
+[![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)](manifest.json)
 
-Public repository hosting dynamic style preset configurations (`styles.json`) and preview benchmark images for the Script Pro web application.
+Public repository hosting dynamic style preset configurations (`manifest.json`) and preview benchmark images for the Script Pro web application.
+
+---
+
+## 🌐 CDN Base URL
+
+Sao chép đường dẫn CDN để cấu hình vào Script-Pro:
+
+```text
+https://cdn.jsdelivr.net/gh/2noScript/plugin-script-pro-style@main
+```
+
+- **Plugin Manifest**: `https://cdn.jsdelivr.net/gh/2noScript/plugin-script-pro-style@main/manifest.json`
+- **Images Preview Base**: `https://cdn.jsdelivr.net/gh/2noScript/plugin-script-pro-style@main/images/`
 
 ---
 
@@ -67,8 +80,8 @@ To maintain visual consistency and comparability across all artistic style prese
 ## 📁 Directory Structure
 
 ```text
-script-style-image/
-├── styles.json                        # Main preset configuration JSON (40 presets with order index)
+plugin-script-pro-style/
+├── manifest.json                      # Main plugin manifest configuration JSON (41 presets with metadata)
 ├── README.md                          # Style previews & benchmark guide
 └── images/                            # Benchmark preview images (1:1 format)
     ├── anime-cel-shading/
